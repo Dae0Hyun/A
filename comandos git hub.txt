@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Dae0Hyun/A.git
+git branch -M main
+git push -u origin main
